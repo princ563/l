@@ -26,7 +26,7 @@ db = client['VIKASH']
 users_collection = db['DARK']
 redeem_codes_collection = db['redeem_codes0']
 
-TELEGRAM_BOT_TOKEN = '7635258880:AAEDpq0bGDA5EY16Z-S9UJWr6ovzX3pNb4g'
+TELEGRAM_BOT_TOKEN = '7635258880:AAFi8wJAjqtLEJ0CEGzSdVJH7X7AH_zXDUo'
 ADMIN_USER_ID = 7240083426
 
 cooldown_dict = {}
